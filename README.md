@@ -34,10 +34,19 @@
   <img src="https://img.shields.io/badge/-GraphQL-pink"/>&nbsp;
 </p>
 <h3 align="center">•••</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/-TechBlog-%23f2c4d5?style=flat-square&logo=dev.to&logoColor=black&link=https://www.sunhodev.com" />
   <img src="https://img.shields.io/badge/-JungwooPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/" />
   <img src="https://img.shields.io/badge/-MyProjects-%239080a6?style=flat-square&logo=CodeProject&logoColor=black&link=https://www.sunhodev.com/project" />
-</p>
+  <object data="https://img.shields.io/badge/-MyProjects-%239080a6?style=flat-square&logo=CodeProject&logoColor=black&link=https://www.sunhodev.com/project" />
+</p> -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Blog](https://img.shields.io/badge/-TechBlog-%23f2c4d5?style=flat-square&logo=dev.to&logoColor=black&link=https://www.sunhodev.com)](https://www.sunhodev.com)
+[![Linkedin: sunhojw](https://img.shields.io/badge/-JungwooPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/)](https://www.linkedin.com/in/sunhojw)
+[![My Project](https://img.shields.io/badge/-MyProjects-%239080a6?style=flat-square&logo=CodeProject&logoColor=black&link=https://www.sunhodev.com/project)](https://www.sunhodev.com/project)
 
 
