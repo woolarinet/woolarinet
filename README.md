@@ -1,13 +1,13 @@
-<p align="center">
+<img align="right" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width=200 />
+<p align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoolarinet&count_bg=%23D9CC8B&title_bg=%239080A6&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" />
   <img src="https://img.shields.io/github/followers/woolarinet?color=%23a6bf80&logo=github" />
 </p>
 
-<h3 align="center"> Hi there, 👋 I'm Jungwoo Park.</h3>
-<h5 align="center">🗣 People call me sunho.</h5>
-<h5 align="center">💻 Backend Software Engineer.</h5>
-
-  &nbsp;&nbsp;
+<h3 align="right"> Hi there, 👋 I'm Jungwoo Park.</h3>
+<h5 align="right">🗣 People call me sunho.</h5>
+<h5 align="right">💻 Backend Software Engineer.</h5>
+<br /><br />
 
 <h3 align="center">📚 Skills 📚</h3>
 <p align="center">
