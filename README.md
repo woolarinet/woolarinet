@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-TechBlog-%23f2c4d5?style=flat-square&logo=dev.to&logoColor=black&link=https://www.sunhodev.com" />
   <img src="https://img.shields.io/badge/-JungwooPark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/" />
-  <img src="https://img.shields.io/badge/-MyProjects-%239080a6?style=flat-square&logo=CodeProject&logoColor=black&url=https://www.sunhodev.com/project" />
+  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom" />
 </p>
 
 
