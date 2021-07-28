@@ -11,16 +11,16 @@
 
 <h3 align="left">📚 Skills 📚</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vue.js-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vuetify-skyblue"/>&nbsp;
-  <img src="https://img.shields.io/badge/-NuxtJS-green"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Nuxt.js-green"/>&nbsp;
   <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp;
-  <img src="https://img.shields.io/badge/-React-9cf"/>&nbsp;
-  <img src="https://img.shields.io/badge/-NextJS-grey"/>&nbsp;
+  <img src="https://img.shields.io/badge/-React.js-9cf"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-grey"/>&nbsp;
   <br />
-  <img src="https://img.shields.io/badge/-Nodejs-yellowgreen"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-yellowgreen"/>&nbsp;
   <img src="https://img.shields.io/badge/-Express-black"/>&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp;
   <img src="https://img.shields.io/badge/-Sequelize-informational"/>&nbsp;
