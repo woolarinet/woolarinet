@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp;
-  <img src="https://img.shields.io/badge/-React.js-9cf"/>&nbsp;
   <img src="https://img.shields.io/badge/-Next.js-grey"/>&nbsp;
   <br />
   <img src="https://img.shields.io/badge/-Node.js-yellowgreen"/>&nbsp;
