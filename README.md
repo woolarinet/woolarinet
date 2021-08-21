@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/-Vue.js-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vuetify-skyblue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Nuxt.js-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp;
   <img src="https://img.shields.io/badge/-Next.js-grey"/>&nbsp;
   <br />
