@@ -9,7 +9,7 @@
 <h5 align="left">💻 Backend Software Engineer.</h5>
 <br /><br />
 
-<h3 align="left">📚 Skills 📚</h3>
+<h3 align="left">📚 Skills  📚</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-Vue.js-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vuetify-skyblue"/>&nbsp;
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Vercel-black"/>&nbsp;
   <img src="https://img.shields.io/badge/-GraphQL-pink"/>&nbsp;
 </p>
-<h3 align="left">•••</h3>
+<h3 align="left">•••</h3> 
 
 [![My Blog](https://img.shields.io/badge/-TechBlog-%23f2c4d5?style=flat-square&logo=dev.to&logoColor=black&link=https://www.sunhodev.com)](https://www.sunhodev.com)
 [![Linkedin: sunhojw](https://img.shields.io/badge/-sunho_JungwooPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/)](https://www.linkedin.com/in/sunhojw)
