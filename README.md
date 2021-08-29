@@ -11,24 +11,25 @@
 
 <h3 align="left">📚 Skills  📚</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Vue.js-blue"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Vuetify-skyblue"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Nuxt.js-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Next.js-grey"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vue.js-lightgreen?logo=Vue.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vuetify-skyblue?logo=Vuetify"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Nuxt.js-lightyellow?logo=Nuxt.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-FFC300?logo=Javascript"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-grey?logo=Next.js"/>&nbsp;
   <br />
-  <img src="https://img.shields.io/badge/-Node.js-yellowgreen"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Express-black"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Sequelize-informational"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-8FBC8F?logo=Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Express-black?logo=Express"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-navy?logo=Mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Sequelize-informational?logo=Sequelize"/>&nbsp;
   <br />
-  <img src="https://img.shields.io/badge/-Ubuntu-red"/>&nbsp;
-  <img src="https://img.shields.io/badge/-NGINX-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-pm2-skyblue"/>&nbsp;
-  <img src="https://img.shields.io/badge/-AWS-important"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Git-critical"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Vercel-black"/>&nbsp;
-  <img src="https://img.shields.io/badge/-GraphQL-pink"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Ubuntu-FFCFDA?logo=Ubuntu"/>&nbsp;
+  <img src="https://img.shields.io/badge/-NGINX-green?logo=Nginx"/>&nbsp;
+  <img src="https://img.shields.io/badge/-S3-F0B6B6?logo=amazons3"/>&nbsp;
+  <img src="https://img.shields.io/badge/-pm2-skyblue?logo=pm2"/>&nbsp;
+  <img src="https://img.shields.io/badge/-AWS-FFB182?logo=amazonaws"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Git-FFEBF0?logo=Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vercel-black?logo=Vercel"/>&nbsp;
+  <img src="https://img.shields.io/badge/-GraphQL-pink?logo=GraphQL"/>&nbsp;
 </p>
 <h3 align="left">•••</h3> 
 
