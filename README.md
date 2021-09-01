@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/-Vuetify-skyblue?logo=Vuetify"/>&nbsp;
   <img src="https://img.shields.io/badge/-Nuxt.js-lightyellow?logo=Nuxt.js"/>&nbsp;
   <img src="https://img.shields.io/badge/-JAVASCRIPT-FFC300?logo=Javascript"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Next.js-grey?logo=Next.js"/>&nbsp;
   <br />
   <img src="https://img.shields.io/badge/-Node.js-8FBC8F?logo=Node.js"/>&nbsp;
   <img src="https://img.shields.io/badge/-Express-black?logo=Express"/>&nbsp;
