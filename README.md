@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Node.js-8FBC8F?logo=Node.js"/>&nbsp;
   <img src="https://img.shields.io/badge/-Express-black?logo=Express"/>&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-navy?logo=Mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MariaDB-white?logo=Mariadb&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/-Sequelize-informational?logo=Sequelize"/>&nbsp;
   <br />
   <img src="https://img.shields.io/badge/-Ubuntu-FFCFDA?logo=Ubuntu"/>&nbsp;
