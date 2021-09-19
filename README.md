@@ -6,7 +6,11 @@
 
 <h3 align="left"> Hi there, 👋 I'm Jungwoo Park.</h3>
 <h5 align="left">🗣 People call me sunho.</h5>
+<h5 align="left">I am...</h5>
 <h5 align="left">💻 Backend Software Engineer.</h5>
+<h5 align="left">🦈 thinking about optimized Data Model.</h5>
+<h5 align="left">💦 working on writing clean and good SQL code.</h5>
+<h5 align="left">🔎 going after ingrained Devops Engineer.</h5>
 <br /><br />
 
 <h3 align="left">📚 Skills  📚</h3>
