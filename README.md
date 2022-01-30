@@ -28,7 +28,6 @@
   <br />
   <img src="https://img.shields.io/badge/-Ubuntu-FFCFDA?logo=Ubuntu"/>&nbsp;
   <img src="https://img.shields.io/badge/-NGINX-green?logo=Nginx"/>&nbsp;
-  <img src="https://img.shields.io/badge/-S3-F0B6B6?logo=amazons3"/>&nbsp;
   <img src="https://img.shields.io/badge/-pm2-skyblue?logo=pm2"/>&nbsp;
   <img src="https://img.shields.io/badge/-AWS-FFB182?logo=amazonaws"/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-FFEBF0?logo=Git"/>&nbsp;
