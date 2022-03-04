@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-MySQL-navy?logo=Mysql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-MariaDB-white?logo=Mariadb&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/-Sequelize-informational?logo=Sequelize"/>&nbsp;
+  <img src="https://img.shields.io/badge/-GraphQL-pink?logo=GraphQL"/>&nbsp;
   <br />
   <img src="https://img.shields.io/badge/-Ubuntu-FFCFDA?logo=Ubuntu"/>&nbsp;
   <img src="https://img.shields.io/badge/-NGINX-green?logo=Nginx"/>&nbsp;
@@ -33,7 +34,6 @@
   <img src="https://img.shields.io/badge/-AWS-FFB182?logo=amazonaws"/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-FFEBF0?logo=Git"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vercel-black?logo=Vercel"/>&nbsp;
-  <img src="https://img.shields.io/badge/-GraphQL-pink?logo=GraphQL"/>&nbsp;
 </p>
 <h3 align="left">•••</h3> 
 
