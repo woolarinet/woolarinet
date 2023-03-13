@@ -9,16 +9,7 @@
 <h5 align="left">I am...</h5>
 <h5 align="left">💻 Backend Software Engineer.</h5>
 <h5 align="left">🦈 thinking about optimized Data Model.</h5>
-<h5 align="left">💦 working on writing clean and good SQL code.</h5>
 <h5 align="left">🔎 going after ingrained Engineer.</h5>
 <br /><br />
-<p align="left">
-  <img src="https://img.shields.io/badge/-Node.js-8FBC8F?logo=Node.js"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-navy?logo=Mysql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-white?logo=Typescript"/>&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-FFC300?logo=Javascript"/>&nbsp;
-  <img src="https://img.shields.io/badge/-AWS-FFB182?logo=amazonaws"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Git-FFEBF0?logo=Git"/>&nbsp;
-</p>
 
 [![Linkedin: sunhojw](https://img.shields.io/badge/-sunho_JungwooPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/)](https://www.linkedin.com/in/sunhojw)
