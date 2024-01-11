@@ -7,4 +7,4 @@
 <h5 align="left">Software Engineer</h5>
 <br /><br />
 
-[![Linkedin: sunhojw](https://img.shields.io/badge/-Reed_JungwooPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/)](https://www.linkedin.com/in/sunhojw)
+[![Linkedin: sunhojw](https://img.shields.io/badge/-Reed_JungwooPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/)](https://www.linkedin.com/in/sunhojw/)
