@@ -4,12 +4,7 @@
   <img src="https://img.shields.io/github/followers/woolarinet?color=%23a6bf80&logo=github" />
 </p>
 
-<h3 align="left"> Hi there, 👋 I'm Jungwoo Park.</h3>
-<h5 align="left">🗣 People call me Reed.</h5>
-<h5 align="left">I am...</h5>
-<h5 align="left">💻 Backend Software Engineer.</h5>
-<h5 align="left">🦈 thinking about optimized Data Model.</h5>
-<h5 align="left">🔎 going after ingrained Engineer.</h5>
+<h5 align="left">Software Engineer</h5>
 <br /><br />
 
 [![Linkedin: sunhojw](https://img.shields.io/badge/-Reed_JungwooPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunhojw/)](https://www.linkedin.com/in/sunhojw)
